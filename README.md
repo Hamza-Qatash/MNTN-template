@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Hamza-Qatash/MNTN-template">
-    <img src="./images/icon.png" alt="Logo" width="80" height="80">
+    <img src="./images/Mountain-Logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Qatash MNTN TEMPLATE</h3>
