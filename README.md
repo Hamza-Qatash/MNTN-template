@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Hamza-Qatash/MNTN-template">
+  <a target="_blank" href="https://github.com/Hamza-Qatash/MNTN-template">
     <img src="./images/Mountain-Logo.png" alt="Logo" width="80" height="80">
   </a>
 
